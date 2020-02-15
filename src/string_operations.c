@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <wchar.h>
 
-size_t w_strlen(const wchar_t *s) /* confit master */
+size_t w_strlen(const wchar_t *s) /*  master and feature */
 
 {
 
