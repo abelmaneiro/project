@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+/* comment */
 size_t my_strlen(const char *s)
 {
    char *p = s;
